@@ -26,6 +26,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/STDSuperman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="陌小路" /></a></p><br><br><br><br><br>
-<p style="text-align: left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=stdsuperman&show_icons=true&locale=en&layout=compact&hide=html" alt="stdsuperman" /></p><br><br><br><br><br><br><br>
+<p style="text-align: left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stdsuperman&show_icons=true&locale=en&layout=compact&hide=html" alt="stdsuperman" /></p><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=stdsuperman&show_icons=true&locale=en" alt="stdsuperman" /></p><br><br><br><br><br><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stdsuperman&" alt="stdsuperman" /></p>
